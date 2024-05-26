@@ -1,1 +1,1 @@
-print(end sem)
+print(end sem exam)
